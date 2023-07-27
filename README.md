@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Portfolio 2023 </h1>
   <a>
-    <img src = "./src/Components/Assents/projeto.png" >
+    
   </a>
   
 </p>
